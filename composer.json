@@ -10,11 +10,15 @@
         "symfony/console": "6.1.*",
         "symfony/dotenv": "6.1.*",
         "symfony/flex": "^2",
+        "symfony/form": "6.1.*",
         "symfony/framework-bundle": "6.1.*",
+        "symfony/http-foundation": "6.1.*",
+        "symfony/mailer": "6.1.*",
+        "symfony/routing": "6.1.*",
         "symfony/runtime": "6.1.*",
+        "symfony/twig-bundle": "6.1.*",
+        "symfony/validator": "6.1.*",
         "symfony/yaml": "6.1.*"
-    },
-    "require-dev": {
     },
     "config": {
         "allow-plugins": {
